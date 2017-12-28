@@ -38,3 +38,4 @@ app.post('/api/upload', multipart(), async function(req, res){
 });
 `
 ### Click one img, img will be in a bigger size, but if click again, it will be a thumbnails again.
+### In the top of page, Client can upload the imgs, and we limite 10 imgs can be uploaded at the same time.
