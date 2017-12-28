@@ -1,4 +1,4 @@
-# Node_Picture
+# Node_thumbnails_Picture
 
 ## This is for get all of the picture who are in the public/imgs
 
