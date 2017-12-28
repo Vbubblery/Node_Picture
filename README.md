@@ -3,7 +3,7 @@
 ## This is for get all of the picture who are in the public/imgs
 
 ## The architecture
-### Node.js, Express, React, Flux, Bootstrap 
+### Node.js, Express, React, Flux, Bootstrap, Gulp, Bower
 
 ## Overview
 ### Provide API to get the name of files who are in the public/imgs
